@@ -1,1 +1,2 @@
-# Repositorio Actividad 1
+# actividad1.
+Actividad de SSH y Git desde CLI
